@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.question{
+
+}
+h1{
+
+}
+.answer{
+  background-color: #FFFEE1;
+}
+.who-said{
+  font-style: italic;
+}
+.chat{
+  display: flex;
+  flex-direction: column;
+}
+form{
+  display: flex;
+  align-items: center;
+}
